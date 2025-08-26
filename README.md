@@ -26,8 +26,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Isabelle </code>, tenho 19 anos, moro em Jaboticatubas e sou estudante de programação. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
-</div>
+<i><b>Olá</b> :wave:, sou o <code>Isabelle</code>, tenho 19 anos, moro em Jaboticatubas e sou estudante de programação. Atualmente estudo no curso de Análise e Desenvolvimeno de Sistemas  do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 -----
 <div align="justify">
