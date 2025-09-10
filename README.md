@@ -2,8 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/isabellemendes/jizzydrafts/blob/main/img/headertech.jpg?raw=true"/>
-</div>
+<img align="center" alt="Header" src="[https://images.unsplash.com/photo-1537432376769-00aabc1a1fdb?w=1200](https://www.shutterstock.com/image-vector/horizontal-seamless-background-doodle-style-600nw-2588760429.jpg)" />
 
 -----
 
