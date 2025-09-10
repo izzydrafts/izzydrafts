@@ -1,8 +1,9 @@
 #izzydrafts
 -----
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?w=1200" alt="Header Tech" width="800"/>
+</div>
 
-<div>
-<img align="center" alt="Header" src="[https://images.unsplash.com/photo-1537432376769-00aabc1a1fdb?w=1200](https://www.shutterstock.com/image-vector/horizontal-seamless-background-doodle-style-600nw-2588760429.jpg)" />
 
 -----
 
@@ -43,9 +44,10 @@
 <div align="justify">
 <p> 
 - 
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- :memo: &nbsp; Veja alguns artigos que publiquei. 
+ 
+- :books: &nbsp; Acesse os livros que já li ou estou lendo.
+ 
 </p>
 </div>
 </div>
