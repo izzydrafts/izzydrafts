@@ -32,7 +32,7 @@
 -----
 <div align="justify">
  Estudante de Análise e Desenvolvimento do Instituto Newton Paiva. Atualmente, no quarto semestre. 
- <P> Amo livros, principalmente os de fantasia e também amo escutar música, é assimque passo meu tempo livre. </P>
+ <P> Amo livros, principalmente os de fantasia e também amo escutar música, é assi mque passo meu tempo livre. </P>
 </div>
 
 -----
